@@ -65,7 +65,7 @@ Respuesta:
 {
  "token": "TOKEN_JWT"
 }
-🖥 CRUD de computadoras
+ CRUD de computadoras
 Obtener computadoras
 GET /computadoras
 Crear computadora
